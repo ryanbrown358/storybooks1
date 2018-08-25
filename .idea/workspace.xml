@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9c8b79e-face-4dde-9315-2e26bea37d1a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/keys_dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/keys_prod.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/keys.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/keys.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helpers/hbs.js" beforeDir="false" afterPath="$PROJECT_DIR$/helpers/hbs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/story.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/story.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/stories.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index/dashboard.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/views/index/dashboard.handlebars" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/stories/add.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/views/stories/add.handlebars" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/stories/edit.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/views/stories/edit.handlebars" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/stories/index.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/views/stories/index.handlebars" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/stories/show.handlebars" beforeDir="false" afterPath="$PROJECT_DIR$/views/stories/show.handlebars" afterDir="false" />
-    </list>
+    <list default="true" id="c9c8b79e-face-4dde-9315-2e26bea37d1a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -96,17 +78,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/keys_dev.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="4" selection-end-column="2" />
+            <state relative-caret-position="126">
+              <caret line="3" column="49" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/keys_prod.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            <state relative-caret-position="42">
+              <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -147,7 +129,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/keys.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
@@ -313,18 +295,17 @@
       <workItem from="1534735789035" duration="6291000" />
       <workItem from="1534976125912" duration="708000" />
       <workItem from="1535027476500" duration="25275000" />
-      <workItem from="1535122958379" duration="15694000" />
+      <workItem from="1535122958379" duration="16899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53023000" />
+    <option name="totallyTimeSpent" value="54228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="66" width="1920" height="2092" extended-state="4" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2638889" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2638889" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" weight="0.32958803" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -338,7 +319,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32963374" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005429" side_tool="true" weight="0.31267294" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49945712" weight="0.31298557" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49945712" visible="true" weight="0.31298557" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -539,20 +520,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/keys_dev.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/keys_prod.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -564,6 +531,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/keys_dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/keys_prod.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
         </state>
       </provider>
     </entry>
