@@ -44,8 +44,8 @@ mongoose.connect(keys.mongoURI, {
 const app = express();
 
 // Body Parser Middleware
-app.use(bodyParser.urlencoded({ extended: false }))
-app.use(bodyParser.json())
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
 
 // MEthod Override Middelware
 app.use(methodOverride('_method'));

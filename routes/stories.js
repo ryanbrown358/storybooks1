@@ -104,7 +104,7 @@ router.post('/', (req, res) => {
         status: req.body.status,
         allowComments:allowComments,
         user: req.user.id
-    }
+    };
 
     // Create Story
     new Story(newStory)
@@ -143,7 +143,7 @@ router.put('/:id', (req, res) => {
 
 // Delete Story
 router.delete('/:id', (req, res) => {
-    Story.remove({_id: req.params.id})
+    Story.deleteOne({_id: req.params.id})
         .then(() => {
             res.redirect('/dashboard');
         });
@@ -158,7 +158,7 @@ router.post('/comment/:id', (req, res) => {
             const newComment = {
                 commentBody: req.body.commentBody,
                 commentUser: req.user.id
-            }
+            };
 
             // Add to comments array
             story.comments.unshift(newComment);
