@@ -10,7 +10,7 @@ const passport = require('passport');
 
 // Load Models
 require('./models/User');
-require('./models/story');
+require('./models/Story');
 
 // Passport Config
 require('./config/passport')(passport);
@@ -36,7 +36,7 @@ const {
 mongoose.Promise = global.Promise;
 // Mongoose Connect
 mongoose.connect(keys.mongoURI, {
-    useNewUrlParser: true
+    useMongoClient:true
 })
     .then(() => console.log('MongoDB Connected'))
     .catch(err => console.log(err));
@@ -57,7 +57,7 @@ app.engine('handlebars', exphbs({
         stripTags: stripTags,
         formatDate:formatDate,
         select:select,
-        editIcon
+        editIcon: editIcon
     },
     defaultLayout:'main'
 }));
